@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints
+
+# Entornos virtuales
+.env/
+.venv/
+env/
+venv/
+
+# Archivos de configuración de usuario
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# Docker
+*.pid
+*.tar
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Archivos del sistema Linux
+.Trash-*
+ehthumbs.db
+Thumbs.db

@@ -1,0 +1,14 @@
+# Acá se escriben las dependencias del proyecto, por ejemplo:
+
+# pandas
+# matplotlib
+# seaborn
+
+# Si se necesita una versión específica de una librería, se puede especificar así:
+# pandas==1.3.3
+
+# Si se necesita una versión mínima de una librería, se puede especificar así:
+# pandas>=1.3.0
+
+# Si se necesita una versión máxima de una librería, se puede especificar así:
+# pandas<=1.3.3
